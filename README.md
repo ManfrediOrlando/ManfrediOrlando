@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-## I’m currently
+
+### I’m currently
 
 :droplet: studyng for become full stack developer
 
@@ -9,7 +10,7 @@
 :droplet: studyng Javascript, React, Node.js
 
 
-## Contacts
+### Contacts
 
 :droplet: [linkedin](https://www.linkedin.com/in/manfredi-orlando-b7029a142/)
 
