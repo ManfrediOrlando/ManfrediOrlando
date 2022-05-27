@@ -7,7 +7,7 @@
 
 :droplet: Using html, css, boostrap
 
-:droplet: Studyng Javascript, React, Node.js
+:droplet: Studying Javascript, React, Node.js
 
 
 ### Contacts
