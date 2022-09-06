@@ -7,7 +7,7 @@
 
 :droplet: Using **html, css, boostrap**
 
-:droplet: Studying **Javascript, React, Node.js**
+:droplet: Studying **Javascript, Typescript, React, Node.js**
 
 :droplet: developing a real web application using **agile methodologies**
 
